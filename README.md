@@ -7,6 +7,7 @@ This project utilizes the following tools and extensions:
 - **Cursor IDE** - AI-powered code editor
 - **Claude Code Add-on** - Claude AI integration for code assistance
 - **Codex Add-on** - OpenAI Codex integration for code generation
+- **VSCode** - Source code editor for code rewriting and checking
 
 ## Setup Steps
 
