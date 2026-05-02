@@ -9,6 +9,20 @@ This project utilizes the following tools and extensions:
 - **Codex Add-on** - OpenAI Codex integration for code generation
 - **VSCode** - Source code editor for code rewriting and checking
 
+### Research & documentation
+
+- **ChatGPT** - For research and finding experts with deep information
+- **YouTube** - For transcripts of the experts
+- **Glasp** - For detailed transcripts from the experts
+
+## Project topic
+
+The topic I pick for the project is: **AI-Powered SEO Content Production**.
+
+## Why these experts
+
+**Reasons why I choose these experts:** These 10 experts have very high credibility, and they are also doing research in the area I’m currently working in, which helps me tell whether their research is going in the right direction.
+
 ## Setup Steps
 
 Follow these steps to complete the project setup:
@@ -47,4 +61,4 @@ Follow these steps to complete the project setup:
 
 ---
 
-**Last Updated:** April 25, 2026
+**Last Updated:** May 2, 2026
