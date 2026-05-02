@@ -135,3 +135,21 @@ To see the full results, search for the publication: **The SEOFOMO State of AI S
 
 - https://www.reddit.com/r/AISearchLab/comments/1nf0dpw/ai_seo_buzz_ai_mode_in_autocomplete_search/?utm_source=chatgpt.com
 
+---
+
+## Neil Patel — Additional Information
+
+Neil increasingly frames SEO as broader **discoverability**: Google, YouTube, Amazon, TikTok, AI tools, and marketplaces.
+
+### SEO Production Lesson
+
+Repurpose every content asset into:
+
+- Blog post
+- LinkedIn post
+- YouTube short
+- Podcast snippet
+- AI-friendly FAQ page
+
+- https://neilpatel.com/blog/ai-seo/?utm_source=chatgpt.com
+
